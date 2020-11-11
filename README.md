@@ -6,11 +6,11 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
- ' ruby 2.5.1p57'
+ ' ruby 2.5.6'
 * System dependencies
- hhgfg
- hgfyui
- nfcngyg
+
+bhhgj
+
 * Configuration
 
 * Database creation
