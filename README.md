@@ -9,6 +9,9 @@ Things you may want to cover:
 
 * System dependencies
 
+ hgfyui
+ nfcngyg
+ 
 * Configuration
 
 * Database creation
